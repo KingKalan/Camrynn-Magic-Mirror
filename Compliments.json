@@ -1,5 +1,5 @@
 {
-			morning: [
+			"morning": [
 				"Good morning, Camrynn!", 
 				"Today is going to be a great day, Penny.", 
 				"Don't forget to smile today, Camrynn.",
@@ -11,18 +11,18 @@
 				"You're up early, Any big plans for today?",
 				"Is the sun up? I'm tired... Can we sleep a little longer?"
 				],
-			midmorn: [
+			"midmorn": [
 				"It's about time I seen that beautiful face.",
 				"I love sleeping in. Did you get enough sleep?",
 				"LIVE   LAUGH   LOVE",
 				"Love the hair-do. You think it would look good on me too?",
 				],
-			afternoon: [
+			"afternoon": [
 				"Hello, beauty!", 
 				"You look sexy!", 
 				"Looking good today!"
 				],
-			evening: [
+			"evening": [
 				"Wow, you look hot!", 
 				"You look nice!", 
 				"Hi, sexy!"
