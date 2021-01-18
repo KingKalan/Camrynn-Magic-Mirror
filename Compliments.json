@@ -1,0 +1,28 @@
+{
+			morning: [
+				"Good morning, Camrynn!", 
+				"Today is going to be a great day, Penny.", 
+				"Don't forget to smile today, Camrynn.",
+				"Today is your day. Make it a great one, Cam.",
+				"Is today a school day? I can never remember LOL",
+				"You must have gotten a lot of beauty rest, cause you are gorgeous!",
+				"Good morning Gorgeous!!! I hope you slept good.",
+				"Welcome to today, Camrynn. Make it a great one",
+				"You're up early, Any big plans for today?",
+				"Is the sun up? I'm tired... Can we sleep a little longer?"],
+			midmorn: [
+				"It's about time I seen that beautiful face.",
+				"I love sleeping in." "/nDid you get enough sleep?",
+				"LIVE   /nLAUGH   /nLOVE",
+				"Love the hair-do. /nYou think it would look good on me too?",],
+			afternoon: [
+				"Hello, beauty!", 
+				"You look sexy!", 
+				"Looking good today!"],
+			evening: [
+				"Wow, you look hot!", 
+				"You look nice!", 
+				"Hi, sexy!"],
+			"....-01-01": ["Happy new year!"],
+			"....-01-18": ["Martin Luther King Day"]
+}
